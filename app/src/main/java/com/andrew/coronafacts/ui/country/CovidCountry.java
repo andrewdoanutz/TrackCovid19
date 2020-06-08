@@ -1,4 +1,4 @@
-package com.abdulazizahwan.trackcovid19.ui.country;
+package com.andrew.coronafacts.ui.country;
 
 import android.os.Parcel;
 import android.os.Parcelable;

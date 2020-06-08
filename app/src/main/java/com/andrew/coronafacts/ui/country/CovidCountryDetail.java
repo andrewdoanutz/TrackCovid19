@@ -1,11 +1,11 @@
-package com.abdulazizahwan.trackcovid19.ui.country;
+package com.andrew.coronafacts.ui.country;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.TextView;
 
-import com.abdulazizahwan.trackcovid19.R;
+import com.andrew.coronafacts.R;
 
 public class CovidCountryDetail extends AppCompatActivity {
 

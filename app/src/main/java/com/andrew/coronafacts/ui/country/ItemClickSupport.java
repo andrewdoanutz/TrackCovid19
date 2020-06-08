@@ -1,11 +1,11 @@
-package com.abdulazizahwan.trackcovid19.ui.country;
+package com.andrew.coronafacts.ui.country;
 
 import android.view.View;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.abdulazizahwan.trackcovid19.R;
+import com.andrew.coronafacts.R;
 
 public class ItemClickSupport {
     private final RecyclerView mRecyclerView;

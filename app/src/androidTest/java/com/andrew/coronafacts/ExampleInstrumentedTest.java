@@ -1,4 +1,4 @@
-package com.abdulazizahwan.trackcovid19;
+package com.andrew.coronafacts;
 
 import android.content.Context;
 
