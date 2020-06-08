@@ -16,7 +16,7 @@
 
     <item
         android:id="@+id/action_sort_cases"
-        android:icon="@drawable/ic_sort_by_cases"
+        android:icon="@android:drawable/arrow_down_float"
         android:title="Total Cases"
-        app:showAsAction="ifRoom"/>
+        app:showAsAction="ifRoom" />
 </menu>
